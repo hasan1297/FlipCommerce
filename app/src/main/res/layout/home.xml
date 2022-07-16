@@ -173,7 +173,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Nike Air Max 2090"
+                            android:text="Fahim Blue 01"
                             android:textColor="@color/black"
                             android:textSize="13dp" />
 
@@ -216,7 +216,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Nike Air Max 2090"
+                            android:text="Fahim Blue 01"
                             android:textColor="@color/black"
                             android:textSize="15dp" />
 
@@ -259,14 +259,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Nike Air Max 2090"
+                            android:text="Fahim Blue 01"
                             android:textColor="@color/black"
                             android:textSize="15dp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="₹150"
+                            android:text="150tk"
                             android:textColor="@color/black"
                             android:textSize="23dp" />
 
@@ -302,7 +302,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Nike Air Max 2090"
+                            android:text="Fahim Blue 01"
                             android:textColor="@color/black"
                             android:textSize="15dp" />
 

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "dev.atharvakulkarni.e_commerce"
+        applicationId "dev.AtharvaKulkarni.e_commerce"
         minSdkVersion 28
         targetSdkVersion 30
         versionCode 1

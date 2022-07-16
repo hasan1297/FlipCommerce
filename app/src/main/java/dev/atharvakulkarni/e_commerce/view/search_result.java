@@ -61,9 +61,8 @@ public class search_result extends AppCompatActivity
         search_result_adapter = new search_result_adapter(recyclerView,search_result.this,new ArrayList<Integer>(),new ArrayList<String>(),new ArrayList<String>());
 
 
-        search_result_adapter.update(R.drawable.shoes1,"Asian WNDR-13 Running Shoes for Men(Green, Grey)","₹300.00");
-        search_result_adapter.update(R.drawable.shoes2,"Asian WNDR-13 Running Shoes for Men(Green, Grey)","₹500.00");
-
+        search_result_adapter.update(R.drawable.shoes1,"Fahim WNDR-13 Running Shoes for Men(Green, Grey)","300.00tk");
+        search_result_adapter.update(R.drawable.shoes2,"Fahim WNDR-13 Running Shoes for Men(Green, Grey)","500.00tk");
         recyclerView.setAdapter(search_result_adapter);
         search_result_adapter.notifyDataSetChanged();
     }

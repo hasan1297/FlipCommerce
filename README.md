@@ -51,9 +51,9 @@ The Website, Android App, Flutter App & Flutter Web App are connected to each ot
     <th>Home</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/address.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/cart.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/home.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/address.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/cart.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/home.jpg" width="250px"></td>
   </tr>
  
  <tr>
@@ -62,9 +62,9 @@ The Website, Android App, Flutter App & Flutter Web App are connected to each ot
     <th>Payment</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/navigation%20drawer.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/order%20summary.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/payment.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/navigation%20drawer.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/order%20summary.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/payment.jpg" width="250px"></td>
   </tr>
   
   <tr>
@@ -73,9 +73,9 @@ The Website, Android App, Flutter App & Flutter Web App are connected to each ot
     <th>Sign Up</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/payment2.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/signin.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/signup.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/payment2.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/signin.jpg" width="250px"></td>
+    <td><img src="https://github.com/AtharvaKulkarni/E-Commerce-Android/blob/master/Screenshots/signup.jpg" width="250px"></td>
   </tr>
 </table>
 
@@ -124,7 +124,7 @@ Room Persistence Library   <BR>
   
 # Package Structure
     
-    dev.atharvakulkarni.e_commerce   # Root Package
+    dev.AtharvaKulkarni.e_commerce   # Root Package
     .
     ├── data                # For data handling.
     │   ├── model           # Model classes
@@ -153,10 +153,10 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 <BR><BR>
 
 ## 📱 Contact - Let's become friend  🤝
-- [Portfolio Website](https://kulkarniatharva.github.io/)
-- [Github](https://github.com/KulkarniAtharva)
-- [LinkedIn](https://www.linkedin.com/in/atharva-kulkarni-146279187/)
-- [Facebook](https://www.facebook.com/atharva.kulkarni.96343/)
+- [Portfolio Website](https://AtharvaKulkarni.github.io/)
+- [Github](https://github.com/AtharvaKulkarni)
+- [LinkedIn](https://www.linkedin.com/in/Atharva-Kulkarni-146279187/)
+- [Facebook](https://www.facebook.com/Atharva.Kulkarni.96343/)
 
 
 <BR><BR>
@@ -170,7 +170,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
  
  - [E Commerce - Website & Android App]()  - Android   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (currently viewing)
  - [Messenger - Mobile App & Web App]()  - Flutter                                                             
- - [Movie Finder](https://github.com/KulkarniAtharva/Movie_Finder-Android)      - Android
+ - [Movie Finder](https://github.com/AtharvaKulkarni/Movie_Finder-Android)      - Android
  - [Weather App]()    - Android
  - [PokeDex]()  - Flutter
  - [Meditation & Yoga]()  - Flutter
@@ -303,7 +303,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
      
      
  
- An overview of my skills & all my projects done can be found from my [Portfolio Website](https://kulkarniatharva.github.io/).
+ An overview of my skills & all my projects done can be found from my [Portfolio Website](https://AtharvaKulkarni.github.io/).
  
  <BR><BR>
  

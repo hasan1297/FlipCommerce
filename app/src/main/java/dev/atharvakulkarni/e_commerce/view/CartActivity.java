@@ -74,8 +74,8 @@ public class CartActivity extends AppCompatActivity
         cartAdapter = new CartAdapter(recyclerView,CartActivity.this,new ArrayList<Integer>(),new ArrayList<String>(),new ArrayList<String>());
 
 
-        cartAdapter.update(R.drawable.shoes1,"Asian WNDR-13 Running Shoes for Men(Green, Grey)","₹300.00");
-        cartAdapter.update(R.drawable.shoes2,"Asian WNDR-13 Running Shoes for Men(Green, Grey)","₹500.00");
+        cartAdapter.update(R.drawable.shoes1,"Fahim WNDR-13 Running Shoes for Men(Green, Grey)","300.00tk");
+        cartAdapter.update(R.drawable.shoes2,"Fahim WNDR-13 Running Shoes for Men(Green, Grey)","500.00tk");
 
         cartBinding.recyclerview.setAdapter(cartAdapter);
         cartAdapter.notifyDataSetChanged();
